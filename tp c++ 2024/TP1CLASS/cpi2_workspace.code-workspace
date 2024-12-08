@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../java_prog"
+		},
+		{
+			"path": "../../WEB"
+		},
+		{
+			"path": "../../c programmation"
+		},
+		{
+			"path": "../../python_prog"
+		},
+		{
+			"path": "../../../../app web"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WEB"
+	}
+}
